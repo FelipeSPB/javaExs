@@ -1,11 +1,3 @@
-#################################
-#								#
-#								#
-#		     JavaExs			#	
-#								#
-#								#	
-#								#
-#################################
 
 Dentro da pasta exercícios verão a parte de src, dentro desta estará os pacotes e cada um refere-se a uma lista.
 
