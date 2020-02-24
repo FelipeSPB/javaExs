@@ -3,6 +3,7 @@ Dentro da pasta exercícios verão a parte de src, dentro desta estará os pacot
 
 
 "ListaObj" refere-se ao arquivo lista_1_logica
+"ListaObj2" refere-se ao arquivo lista_2_logica
 Favor localizarem dentro da pasta listas os pdfs referentes.
 
 Obrigado.
