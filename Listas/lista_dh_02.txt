@@ -1,0 +1,16 @@
+1. Escrever um programa que faça o seguinte: Declarar uma variável “umNumeroA” do tipo Integer:
+- Declarar uma variável “umNumeroB” do tipo Double;
+- Declarar uma variável “umaCadeiaDeTexto” do tipo String;
+- Atribuir um valor a cada variável e, em seguida, imprimir na tela: O valor de cada variável;
+- A soma de “numeroA” + “numeroB”;
+- A diferença entre “numeroA” - “numeroB”.
+
+2. Escrever um programa, que deve analisar dois números inteiros e, 
+se o primeiro número for menor que o segundo número, retornar true, caso contrário, retorna false.
+
+3. Escrever um programa que deve analisar um número inteiro e, caso ele seja ímpar e maior que dez, 
+retornar true, caso contrário, retornar false.
+
+4. Escrever um programa, que pegue um Array de números e retorne a soma de todos os elementos dele.
+
+5. Escrever um programa que receba um Array e retorne a soma de todos os elementos pares do Array.
