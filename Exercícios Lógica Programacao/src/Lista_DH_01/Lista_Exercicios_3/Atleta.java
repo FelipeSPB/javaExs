@@ -1,4 +1,4 @@
-package Lista_DH_01.Lista_Exercícios_3;
+package Lista_DH_01.Lista_Exercicios_3;
 
 public class Atleta {
     private String nome;
